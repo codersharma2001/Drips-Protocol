@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "radicle-drips": "github:radicle-dev/drips-js-sdk"
+  }
+}
